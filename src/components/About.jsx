@@ -15,7 +15,7 @@ const about = () => {
         </div>
         <p className="service-text">
           They include Playing Games both outdoor and online. On a casual day I
-          would sing and have a good time with my friends. And yes I do click
+          would sing and have a good time with my friends, I like to know about things so I stick myself to reading and listening. And yes I do click
           good pictures.
         </p>
       </div>
@@ -25,12 +25,7 @@ const about = () => {
           <h3>Technical Skills</h3>
         </div>
         <p className="service-text">
-          HTML, CSS ,JAVASCRIPT, React Environment, DJANGO:- <b>Intermediate</b>
-          <br />
-          <br />
-          Cpp, Python, C :-<b>Intermediate</b>
-          <br />
-          <br />
+          HTML, CSS ,JAVASCRIPT, React Environment, Node, Express JS, MongoDb, Python, CPP, C are the languages/tools I've worked with and was comfortable.
         </p>
       </div>
       <div className="service">
@@ -48,6 +43,14 @@ const about = () => {
             Magnimus
           </a>{" "}
           (a fitness-based startup) 
+          </b>
+          <br></br>
+          <br></br>
+          <b><i>2022 August - 2022 October</i> as Front End WebDev Intern  In{" "}
+          <a href="https://drive.google.com/file/d/1OuNzla-2fSjQHV_8OBG4DxJudu8ta2xF/view">
+            Skillvertex
+          </a>{" "}
+          (training and Internship Program) 
           </b>
         </p>
       </div>
