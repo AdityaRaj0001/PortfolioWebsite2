@@ -160,12 +160,18 @@ html{
     display:flex;
     align-items:center;
     justify-content: center;
+    overflow:hidden;
+}
+
+.profile-img:hover img{
+  scale:1.2;
 }
 .profile-img img{
     max-width:90%;
     max-height:90%;
     border-radius:5%;
     border: 5px solid #000000;
+    transition: all ease 1s;
 }
 /* section-1 ends */
 
