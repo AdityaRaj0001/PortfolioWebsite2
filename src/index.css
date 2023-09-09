@@ -160,7 +160,7 @@ html{
     display:flex;
     align-items:center;
     justify-content: center;
-    overflow:hidden;
+    /* overflow:hidden; */
 }
 
 .profile-img:hover img{
