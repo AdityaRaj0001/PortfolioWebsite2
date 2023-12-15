@@ -25,7 +25,7 @@ const about = () => {
           <h3>Technical Skills</h3>
         </div>
         <p className="service-text">
-          HTML, CSS ,JAVASCRIPT, React Environment, Node, Express JS, MongoDb, Python, CPP, C are the languages/tools I've worked with and was comfortable.
+          HTML, CSS ,JAVASCRIPT, NEXTJS/REACTJS, GSAP, Scroll Trigger, Node, Express JS, MongoDb, CPP, C are the languages/tools I've worked with and was comfortable.
         </p>
       </div>
       <div className="service">
@@ -34,7 +34,15 @@ const about = () => {
           <h3>Experiences</h3>
         </div>
         <p className="service-text">
-        <b><i>2023 June - Current</i> as Front End Developer In College's Fest Website team
+        <b><i>2023 June - Oct-2023</i> as Lead Developer In College's Tech Fest Website team
+          </b>
+          <br></br>
+          <br></br>
+        <b><i>2023 Aug - Oct-2023</i> as a Freelance Frontend Developer for GoKapture
+          </b>
+          <br></br>
+          <br></br>
+        <b><i>2023 June - Oct-2023</i> as Front End Developer In College's Cult Fest Website team
           </b>
           <br></br>
           <br></br>

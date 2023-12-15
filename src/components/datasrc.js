@@ -25,24 +25,31 @@ const Navdata=[
 export const ProjectsData=[
     {
         id:1,
-        name:"Campus Companies",
-        tech_used:"React / Node / MongoDb",
-        image:"./Campus_Companies.png",
-        url:"https://campuscompanies.netlify.app/"
+        name:"AI Background Changer",
+        tech_used:"React+Vite, Tailwind Css",
+        image:"./BgChanger.png",
+        url:"https://bgchangergokapture.vercel.app/"
     },
     {
         id:2,
-        name:"Weather App",
-        tech_used:"React / Tailwind Css",
-        image:"./Weather_Today.png",
-        url:"https://weather-today-blond.vercel.app/"
+        name:"Fruit Shop",
+        tech_used:"NextJS, Stripe, Zustand, Tailwind Css",
+        image:"./Fruitshop.png",
+        url:"https://fruit-store-one.vercel.app/"
     },
     {
         id:3,
-        name:"WIKI API",
+        name:"Bubble Game",
+        tech_used:"Vanilla JS",
+        image:"./Bubble.png",
+        url:"https://adityaraj0001.github.io/BubbleGameJS/"
+    },
+    {
+        id:4,
+        name:"Weather Today",
         tech_used:"React/ VITE/ Tailwind Css",
-        image:"./wikipediaAPI.png",
-        url:"https://adityaraj0001.github.io/Wikipedia-Api/"
+        image:"./Weather_Today.png",
+        url:"https://weather-today-blond.vercel.app/"
     },
     {
         id:2,
