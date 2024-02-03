@@ -24,6 +24,13 @@ const Navdata=[
 
 export const ProjectsData=[
     {
+        id:0,
+        name:"College TechFest Website",
+        tech_used:"NEXTJS, ShadCN, Tailwind CSS",
+        image:"./advitiya.png",
+        url:"https://www.advitiya.tech/"
+    },
+    {
         id:1,
         name:"AI Background Changer",
         tech_used:"React+Vite, Tailwind Css",
@@ -50,13 +57,6 @@ export const ProjectsData=[
         tech_used:"React/ VITE/ Tailwind Css",
         image:"./Weather_Today.png",
         url:"https://weather-today-blond.vercel.app/"
-    },
-    {
-        id:2,
-        name:"Backroads APP",
-        tech_used:"React",
-        image:"./Backroads.png",
-        url:"https://back-roads-modrkbv4z-adityaraj0001.vercel.app/?vercelToolbarCode=ssu_FiVshDaQsfF"
     },
 ]
 
