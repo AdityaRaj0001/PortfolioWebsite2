@@ -32,27 +32,34 @@ export const ProjectsData=[
     },
     {
         id:1,
+        name:"CREW intern Website",
+        tech_used:"React + Gsap + Tailwind CSS",
+        image:"./Crew.png",
+        url:"https://www.crewtm.com"
+    },
+    {
+        id:2,
         name:"AI Background Changer",
         tech_used:"React+Vite, Tailwind Css",
         image:"./BgChanger.png",
         url:"https://bgchangergokapture.vercel.app/"
     },
     {
-        id:2,
+        id:3,
         name:"Fruit Shop",
         tech_used:"NextJS, Stripe, Zustand, Tailwind Css",
         image:"./Fruitshop.png",
         url:"https://fruit-store-one.vercel.app/"
     },
     {
-        id:3,
+        id:4,
         name:"Bubble Game",
         tech_used:"Vanilla JS",
         image:"./Bubble.png",
         url:"https://adityaraj0001.github.io/BubbleGameJS/"
     },
     {
-        id:4,
+        id:5,
         name:"Weather Today",
         tech_used:"React/ VITE/ Tailwind Css",
         image:"./Weather_Today.png",
