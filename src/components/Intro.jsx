@@ -7,9 +7,9 @@ const intro = () => {
       <div className="intro-title">
         <h2>Hi I'm Addy</h2>
       </div>
-      <div className="intro-desc">an aspiring Web-developer</div>
+      <div className="intro-desc">an aspiring Software Engineer</div>
       <div className="intro-desc">
-        There's no gain denying the fact that I'm in love with development
+        I like working on something that people actually want 🤌
       </div>
     </div>
     <div className="profile-img">

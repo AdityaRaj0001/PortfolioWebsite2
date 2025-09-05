@@ -24,11 +24,19 @@ const Navdata=[
 
 export const ProjectsData=[
     {
+        id:-1,
+        name:"IRYS Website",
+        tech_used:"React, Tailwind CSS, ThreeJS",
+        image:"./irys.png",
+        url:"https://irys.skdiv.com/"
+
+    },
+    {
         id:0,
         name:"College TechFest Website",
         tech_used:"NEXTJS, ShadCN, Tailwind CSS",
         image:"./advitiya.png",
-        url:"https://www.advitiya.tech/"
+        url:"https://advititya-24-client.vercel.app/"
     },
     {
         id:1,
